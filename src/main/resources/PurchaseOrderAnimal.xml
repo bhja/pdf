@@ -1,0 +1,1166 @@
+<DocumentElement>
+ <CoverPage>
+    <CoverPageImagePath> </CoverPageImagePath>
+	<AnimalName>MORPHEUS </AnimalName>
+	<TestName>Canine DNA Screen </TestName>
+  </CoverPage>
+  
+  <ReportHeader>
+    <LogoImagePath> </LogoImagePath>
+  </ReportHeader>
+  
+  <ReportFooter>
+    <Name>Morpheus </Name>
+	<AgeSex>2W/M </AgeSex>
+	<SampleID>SLCTD01001 </SampleID>
+	<SampleType> Swab kit</SampleType>
+	<SwabKit> </SwabKit>
+	<ReportDate> 26/12/2021</ReportDate>
+	<PageNumber></PageNumber>
+  </ReportFooter>
+  
+  
+  <LogoImagePath></LogoImagePath>
+  <IllustrationImagePath></IllustrationImagePath>
+  <Title></Title>
+  <AnimalName>Morpheus</AnimalName>
+  
+  <BasicDetails>
+	<Breed>German Shepherd</Breed>
+	<Sex>Male</Sex>
+	<Age>2 weeks</Age>
+	<ParentBreedMother>German Shepherd (M)</ParentBreedMother>
+   <ParentBreedFather>German Shepherd (F)</ParentBreedFather>
+   <Weight>1 kgs</Weight>
+   <Height>8 cm</Height>
+   <KnownHealthConditions>No known health conditions specified</KnownHealthConditions>
+  </BasicDetails>
+  
+  <SampleDetails>
+	  <ReferenceID>REF21121001</ReferenceID>
+	  <CollectedDate>12/12/2021 5:30PM</CollectedDate>
+	  <SampleType>Swab Kit</SampleType>
+	  <LabReferenceID>SLCTD01001</LabReferenceID>
+	  <ReceivedDate>13/12/2021 1:00PM</ReceivedDate>
+	  <ReportedDate>26/12/2021</ReportedDate>
+  </SampleDetails>
+  
+  <ReferenceDetails>
+	  <ReferringVet>Dr. Shalini Upadhyay</ReferringVet>
+	  <ClinicName>Animal Care Clinic</ClinicName>
+	  <ClinicAddress>#14 Rajbhavan Road, Beside Yashoda Hospital, Somajiguda, Hyderabad, Telangana
+500082</ClinicAddress>
+	  <OwnerName>Kamakshi Setubandhu</OwnerName>
+	  <EmailAddress>k.setubandhu@gmail.com</EmailAddress>
+	  <OwnerAddress>721, Block-D, Lake View Apartments, Rajbhavan Road, Somajiguda, Hyderabad,
+Telangana 500082</OwnerAddress>
+  </ReferenceDetails>
+  
+  <GenomicTestDetails>
+  <Panel>Thermofisher Canine Genomics Panel - Canine Traits and Disorders, Version 1</Panel>
+  <Laboratory>GeneTech</Laboratory>
+  <Technology>NGS</Technology>
+  <Machine>Ion GeneStudio S5 and Ion Chef</Machine>
+  <LibPrepSolution>Ampliseq based AgriSeq</LibPrepSolution>
+  <PanelSize>154 markers
+97 SNPs, 6 MNPs, 13 Ins, 38 Del </PanelSize>
+  
+
+ 
+  <MarkerCoverage>
+	134 Genetic Disorders, 20 Traits	
+ </MarkerCoverage>
+
+</GenomicTestDetails>
+
+ 
+ 
+ 
+ <TableOfContents>
+  
+  
+	  <IllustrationImagePath></IllustrationImagePath>
+	<TitleImagePath></TitleImagePath>
+	<Title></Title>
+		<TableOfContentsList>
+		<TableOfContentsListItem ID="1">
+			<Heading>
+			<HeadingName>SUMMARY REPORT</HeadingName>
+			<PageNumber>2</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Sample, Test and Reference details with Results Summary</SubHeadingName>
+			<PageNumber>2</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		 <TableOfContentsListItem ID="2">
+			<Heading>
+			<HeadingName>INTRODUCTION</HeadingName>
+			<PageNumber>4</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Introduction to the science and technology of Canine DNA Screen</SubHeadingName>
+			<PageNumber>4</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		 
+		 
+		  <TableOfContentsListItem ID="3">
+			<Heading>
+			<HeadingName>GUIDELINES ON READING THE REPORT</HeadingName>
+			<PageNumber>6</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Introduction to terms from science of genetics used</SubHeadingName>
+			<PageNumber>6</PageNumber>
+			</SubHeadingListItem>
+			<SubHeadingListItem ID="2">
+			<SubHeadingName>How to read Canine DNA Screen result </SubHeadingName>
+			<PageNumber>7</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		 
+		  <TableOfContentsListItem ID="4">
+			<Heading>
+			<HeadingName>LIMITATION OF CANINE DNA SCREEN REPORT</HeadingName>
+			<PageNumber>8</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Limitations of the product and technology</SubHeadingName>
+			<PageNumber>8</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		  <TableOfContentsListItem ID="5">
+			<Heading>
+			<HeadingName>TEST RESULTS SUMMARY</HeadingName>
+			<PageNumber>9</PageNumber>
+			</Heading>			
+			
+         </TableOfContentsListItem>
+		 
+		  <TableOfContentsListItem ID="6">
+			<Heading>
+			<HeadingName>DISORDERS WITH POSITIVE DIAGNOSIS</HeadingName>
+			<PageNumber>10</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Achromatopsia-2</SubHeadingName>
+			<PageNumber>10</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		  <TableOfContentsListItem ID="7">
+			<Heading>
+			<HeadingName>DISORDERS FOR WHICH CARRIER STATUS IS IDENTIFIED</HeadingName>
+			<PageNumber>11</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Amelogenesis Imperfecta</SubHeadingName>
+			<PageNumber>11</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="2">
+			<SubHeadingName>Leukocyte Adhesion Deficiency, Type III</SubHeadingName>
+			<PageNumber>12</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		  <TableOfContentsListItem ID="8">
+			<Heading>
+			<HeadingName>TRAITS IDENTIFIED</HeadingName>
+			<PageNumber>13</PageNumber>
+			</Heading>			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Coat Color, Brown</SubHeadingName>
+			<PageNumber>13</PageNumber>
+			</SubHeadingListItem>
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		  <TableOfContentsListItem ID="9">
+			<Heading>
+			<HeadingName>LIST OF ALL MARKERS TESTED FOR DISEASES AND TRAITS</HeadingName>
+			<PageNumber>14</PageNumber>
+			</Heading>			
+			
+			<SubHeadingList>
+			<SubHeadingListItem ID="1">
+			<SubHeadingName>Traits Tested</SubHeadingName>
+			<PageNumber>15</PageNumber>			
+			</SubHeadingListItem>
+			
+				<SubHeadingListItem ID="2">
+				
+			<SubHeadingName>Ophthalmic disorders</SubHeadingName>
+			<PageNumber>16</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Dental and Oral disorders</SubHeadingName>
+			<PageNumber>18</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Neurological disorders</SubHeadingName>
+			<PageNumber>19</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Immunological disorders</SubHeadingName>
+			<PageNumber>22</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Endocrinal disorders</SubHeadingName>
+			<PageNumber>23</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Skeletal disorders</SubHeadingName>
+			<PageNumber>24</PageNumber>
+			</SubHeadingListItem>
+			
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Respiratory disorders</SubHeadingName>
+			<PageNumber>25</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Hepatological disorders</SubHeadingName>
+			<PageNumber>26</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Dermatological disorders</SubHeadingName>
+			<PageNumber>27</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Metabolic disorders</SubHeadingName>
+			<PageNumber>28</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Hematological disorders</SubHeadingName>
+			<PageNumber>30</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Gastrointestinal disorders</SubHeadingName>
+			<PageNumber>32</PageNumber>
+			</SubHeadingListItem>
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Muscular disorders</SubHeadingName>
+			<PageNumber>33</PageNumber>
+			</SubHeadingListItem>
+			
+			
+			<SubHeadingListItem ID="3">
+			<SubHeadingName>Renal disorders</SubHeadingName>
+			<PageNumber>34</PageNumber>
+			</SubHeadingListItem>
+			
+			
+			</SubHeadingList>
+         </TableOfContentsListItem>
+		 
+		 
+		 
+
+		</TableOfContentsList>
+
+  </TableOfContents>
+  
+  
+  
+  
+  <ResultSummaryPage>
+  
+  <TitleImagePath></TitleImagePath>
+  
+  <Title></Title>
+  <Disorders>
+	  <DisorderCount>1</DisorderCount>
+	  <DisorderList>
+	   <DisorderListItem ID="1">
+		  <DisorderName>Achromatopsia-2</DisorderName>
+			<Type>Ophthalmic</Type>
+			<Marker>AGSCTD079</Marker>
+			<Gene>CNGA3</Gene>
+			<Inheritance>Autosomal Recessive</Inheritance>
+			<Summary>Achromatopsia 2 is an inherited eye disease, characterized by early onset loss of cone
+			photo-receptor function resulting in day blindness, total color blindness, decreased
+			central visual acuity.</Summary>
+		</DisorderListItem>
+		
+		
+	</DisorderList>  
+  </Disorders>
+  
+  
+   <Carriers>
+	  <CarrierCount>2</CarrierCount>
+	  <CarrierList>
+	  <CarrierListItem ID="1">
+		  <CarrierName>Amelogenesis Imperfecta</CarrierName>
+			<Type>Dental</Type>
+			<Marker>AGSCTD003</Marker>
+			<Gene>ENAM</Gene>
+			<Inheritance>Autosomal Recessive</Inheritance>
+			<Summary>Amelogenesis Imperfecta is a common non-syndromic genetic condition caused by
+malfunction of enamel proteins, resulting in enamel hypoplasia or thinning, small
+and pointed teeth, rough surface with brown color, and greater gaps between teeth.</Summary>
+
+       </CarrierListItem>
+	   
+	    <CarrierListItem ID="2">
+		  <CarrierName>Leukocyte Adhesion Deficiency, Type III</CarrierName>
+			<Type>Immunological</Type>
+			<Marker>AGSCTD026</Marker>
+			<Gene>FERMT3</Gene>
+			<Inheritance>Autosomal Recessive</Inheritance>
+			<Summary>Canine leukocyte adhesion deficiency is a primary immunodeficiency disorder
+characterized by recurrent bacterial infections in the presence of marked
+leukocytosis, impaired wound healing, f ever, gingivitis, lameness, and enlarged
+lymph nodes.</Summary>
+
+       </CarrierListItem>
+	   
+	</CarrierList>  
+  </Carriers>
+  
+  
+  <Traits>
+	  <TraitCount>1</TraitCount>
+	  <TraitList>
+	  <TraitListItem ID="1">
+		  <TraitName>Coat Color, Brown</TraitName>
+			
+			<Marker>AGSCTD002</Marker>
+			<Gene>TYRP1</Gene>
+			<Inheritance>Autosomal Recessive</Inheritance>
+			<Summary>Coat color, brown is an inherited trait influenced by the pigment eumelanin which
+causes the darkening of a dog’s coat color. This brown color coat is also referred to
+as liver, red or chocolate coat.</Summary>
+		</TraitListItem>
+	</TraitList>  
+  </Traits>
+  
+  
+  </ResultSummaryPage>
+	 
+     
+	 
+	 
+	 
+	 
+	 <DisorderPageList>
+  
+  <DisorderPageListItem ID="1">
+  
+<DisorderTitleImagePath>D:/AnimalReport/doghexagonreddish3.jpg</DisorderTitleImagePath>
+<DisorderCategory>Ophthalmic</DisorderCategory>
+<DisorderName>Achromatopsia-2</DisorderName>
+<DisorderHighlightText>DISEASE CONDITION</DisorderHighlightText>
+
+<DisorderSummary> 
+<Marker>AGSCTD079</Marker>
+<GeneName>Cyclic Nucleotide Gated Channel Alpha 3</GeneName>
+<Gene>CNGA3</Gene>
+<Category>Ophthalmic</Category>
+<ConditionName>Achromatopsia-2</ConditionName>
+<Inheritance>Autosomal
+Recessive</Inheritance>
+<ChromosomeNumber>CHR10</ChromosomeNumber>
+<GenoType>
+<Reference>G</Reference>
+<VariantFound>A</VariantFound>
+</GenoType>
+<OMIANumber>1481
+</OMIANumber>
+
+
+
+</DisorderSummary> 
+  
+<AboutCondition>  
+<Title>About the Condition</Title>
+<Text>Achromatopsia, also called as day blindness or color blindness, is characterized by cone photoreceptor
+dysfunction of the eye, leading to severely reduced or complete vision loss during day light hours. Dogs
+show signs of avoiding bright light or distress in bright light (photophobia), nystagamus (uncontrolled eye
+movements) and sometimes total colour-blindness. CNGB3 gene associated Achromatopsia is a rare genetic
+condition with complete loss of cone photoreceptor function while rod photoreceptors remain intact.
+Cataract development may also occur frequently in affected dogs.</Text>
+</AboutCondition>
+
+
+<OnsetandPrognosis>  
+<Title>Onset and Prognosis</Title>
+<Text>Symptoms appear early between 8-12 weeks of age when owner observes pup’s difficulty in negotiating
+obstacles. Initially cones start developing but once non-functional, their inner and outer segments gradually
+deteriorate, followed by a slow loss of cones throughout the dog’s lifetime. Cone function loss is confirmed
+by electroretinography.</Text>
+</OnsetandPrognosis>
+
+
+<Breeds>  
+<Title>Dog Breeds</Title>
+<Text>CNGA3 gene associated congenital Achromatopsia is reported in German Shepherds and Labrador Retrievers.</Text>
+</Breeds>  
+  
+  
+  
+  
+<GeneticsandInheritance>  
+<Title>Genetics and Inheritance</Title>
+<Text>Mutation in CNGA3 gene causes dysfunction of retinal phototransduction pathway, leading to congenital
+Achromatopsia-2. It is an autosomal recessive disorder, resulting when two copies of CNGA3 gene carry the
+mutation, one copy inherited from each parent. Unaffected carrier parents have 25% risk of having a pup
+with Achromatopsia-2.</Text>
+</GeneticsandInheritance>  
+
+
+
+  
+<Management>  
+<Title>Management</Title>
+<Text>
+
+1. Although currently, there is no cure, clinical trials in the area of gene therapy are showing encouraging
+results for treating CNGA3 associated Achromatopsia-2.
+2. Avoid additional damage to retina by walking the dog in shady regions, avoiding bright and direct sunlight.
+3. Regular ophthalmic check-ups, electroretinography as directed by Veterinarian
+4. Avoid using affected dogs and unaffected carrier parents in breeding programs
+
+</Text>
+</Management>  
+
+
+
+<References>
+<ReferenceList>  
+<ReferenceListItem ID="1">  
+<Numbers>1.</Numbers>
+
+<Authors>Tanaka, N., Dutrow, E.V., Miyadera, K., Delemotte, L., MacDermaid, C.M., Reinstein, S.L., Crumley, W.R.,
+Dixon, C.J., Casal, M.L., Klein, M.L., Aguirre, G.D., Tanaka, J.C., Guziewicz, K.E.</Authors>
+<Title>Canine CNGA3 Gene
+Mutations Provide Novel Insights into Human Achromatopsia-Associated Channelopathies and
+Treatment.</Title>
+<Journal>PLoS One 10:e0138943, 2015.</Journal>
+
+</ReferenceListItem>  
+</ReferenceList>  
+
+
+</References>  
+  
+  </DisorderPageListItem>
+  
+  
+  
+  
+  
+  </DisorderPageList>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <CarrierPageList>
+  
+  
+  <CarrierPageListItem ID="1">
+  
+<CarrierTitleImagePath>D:/AnimalReport/doghexagondarkblue.jpg</CarrierTitleImagePath>
+<CarrierCategory>Dental</CarrierCategory>
+<CarrierName>Amelogenesis Imperfecta</CarrierName>
+<CarrierHighlightText>UNAFFECTED CARRIER</CarrierHighlightText>
+
+<CarrierSummary> 
+<Marker>AGSCTD003</Marker>
+<GeneName>Enamelin</GeneName>
+<Gene>ENAM</Gene>
+<Category>Dental</Category>
+<ConditionName>Amelogenesis Imperfecta</ConditionName>
+<Inheritance>Autosomal
+Recessive</Inheritance>
+<ChromosomeNumber>CHR13</ChromosomeNumber>
+<GenoType>
+<Reference>TTTCC</Reference>
+<VariantFound>--</VariantFound>
+</GenoType>
+<OMIANumber>001805
+</OMIANumber>
+
+
+
+</CarrierSummary> 
+<CarrierRedHighilghtedText>
+Please note that the dog is an unaffected carrier for the condition. Avoiding carrier in breeding
+programs is advised.
+</CarrierRedHighilghtedText>
+  
+<AboutCondition>  
+<Title>About the Condition</Title>
+<Text>Amelogenesis Imperfecta refers to an inherited group of Carriers affecting the structure, composition, and
+quantity of tooth enamel. It is a common non-syndromic genetic Carrier caused by malfunction of
+enamel proteins, and results in enamel hypoplasia (thinning or absence of enamel), small and pointed
+teeth, rough surface with brown color, and greater gaps between teeth. The symptoms are noticeable in
+young dogs and become more apparent with age due to premature enamel damage.</Text>
+</AboutCondition>
+
+
+<OnsetandPrognosis>  
+<Title>Onset and Prognosis</Title>
+<Text>Amelogenesis imperfecta affects pups as early as 2-12 weeks. Both deciduous and permanent teeth are
+affected and gap between teeth increases as the dog grows older.</Text>
+</OnsetandPrognosis>
+
+
+<Breeds>  
+<Title>Dog Breeds</Title>
+<Text>The breeds commonly affected include Standard poodle dogs, Italian Greyhound, Parson Rusell Terrier,
+Akita, Alaskan Malamute, Chow Chow, German shepherd and Spitz-type. The prevalence of enamel
+hypoplasia in Italian Greyhounds is as high as 14%. In Parson Russell Terriers, carrier frequency of ENAM
+mutation is 9%.</Text>
+</Breeds>  
+  
+  
+  
+  
+<GeneticsandInheritance>  
+<Title>Genetics and Inheritance</Title>
+<Text>ENAM gene provides instruction for making a protein called enamelin which is essential for normal tooth
+development. The 5-bp deletion on ENAM gene leads to disruption of enamelin protein production resulting
+in abnormal tooth development. It is an autosomal recessive Carrier, resulting when two copies of ENAM
+gene carry the mutation, one copy inherited from each parent. Unaffected carrier parents have 25% risk of
+having a pup with Amelogenesis Imperfecta.</Text>
+</GeneticsandInheritance>  
+
+
+
+  
+<Management>  
+<Title></Title>
+<Text>
+
+
+</Text>
+</Management>  
+
+
+
+<References>
+<ReferenceList>  
+<ReferenceListItem ID="1">  
+<Numbers>1.</Numbers>
+
+<Authors>Gandolfi, B., Liu, H., Griffioen, L., Pedersen, N.C. :</Authors>
+<Title>Simple recessive mutation in ENAM is associated with
+amelogenesis imperfecta in Italian Greyhounds.</Title>
+<Journal>Anim Genet 44:569-78, 2013.</Journal>
+
+</ReferenceListItem>  
+
+
+<ReferenceListItem ID="2">  
+<Numbers>2.</Numbers>
+
+<Authors>Hytönen, M.K., Arumilli, M., Sarkiala, E., Nieminen, P., Lohi, H.:</Authors>
+<Title>Canine models of human amelogenesis
+imperfecta: identification of novel recessive ENAM and ACP4 variants.</Title>
+<Journal>Hum Genet 138:525-533, 2019.</Journal>
+
+</ReferenceListItem>  
+
+
+</ReferenceList>  
+
+
+</References>  
+  
+  </CarrierPageListItem>
+  
+  
+  
+  
+  
+  
+   <CarrierPageListItem ID="2">
+  
+<CarrierTitleImagePath>D:/AnimalReport/doghexagondarkblue.jpg</CarrierTitleImagePath>
+<CarrierCategory>Dental</CarrierCategory>
+<CarrierName>Leukocyte Adhesion Deficiency, Type I I I</CarrierName>
+<CarrierHighlightText>UNAFFECTED CARRIER</CarrierHighlightText>
+
+<CarrierSummary> 
+<Marker>AGSCTD026</Marker>
+<GeneName>Fermitin Family Member 3</GeneName>
+<Gene>FERMT3</Gene>
+<Category>Dental</Category>
+<ConditionName>Leukocyte Adhesion Deficiency, Type I I I</ConditionName>
+<Inheritance>Autosomal
+Recessive</Inheritance>
+<ChromosomeNumber>CHR18</ChromosomeNumber>
+<GenoType>
+<Reference>--</Reference>
+<VariantFound>GGCAGCCGTCTT</VariantFound>
+</GenoType>
+<OMIANumber>001525
+</OMIANumber>
+
+
+
+</CarrierSummary> 
+<CarrierRedHighilghtedText>
+Please note that the dog is an unaffected carrier for the condition. Avoiding carrier in breeding
+programs is advised.
+</CarrierRedHighilghtedText>
+  
+<AboutCondition>  
+<Title>About the Condition</Title>
+<Text>Leucocyte adhesion deficiencies are inherited disorders of immunodeficiency due to marked leukocytosis.
+Leukocyte adhesion deficiency-III (LAD-III) is a primary immunodeficiency disorder characterized by
+recurrent bacterial infections. Affected animals die because of extreme susceptibility to infections, caused
+by an inability of white blood cells to pass from the blood stream to the infected tissue or site. Clinical signs
+include severe, recurrent bacterial skin infections, impaired wound healing, fever, gingivitis, lameness and
+enlarged lymph nodes.</Text>
+</AboutCondition>
+
+
+<OnsetandPrognosis>  
+<Title>Onset and Prognosis</Title>
+<Text>The age of onset is around 10 weeks of age with average age of presentation to the veterinarian at 13.5 week
+with signs of recurrent infections, fever, gingivitism, salivation, and impaired wound healing. Untreated dogs
+often do not survive beyond the age of 6 months.</Text>
+</OnsetandPrognosis>
+
+
+<Breeds>  
+<Title>Dog Breeds</Title>
+<Text>This condition is seen in German shepherd and a mixed breed of German shepherd and Rottweiler mongrel.
+Prevalence of the mutant allele is estimated to be approximately 5% in the US Irish Setter population, and
+7.6% in the Australian Irish Setter population.</Text>
+</Breeds>  
+  
+  
+  
+  
+<GeneticsandInheritance>  
+<Title>Genetics and Inheritance</Title>
+<Text>FERMT3 is also known as KINDLIN3 gene. Mutation in the gene results in lack of a membrane glycoprotein
+called kindlin-3 protein resulting in LAD-III. It is an autosomal recessive disorder, resulting when two copies
+of FERMT3 gene carry the mutation, one copy inherited from each parent. Unaffected carrier parents have
+25% risk of having a pup with LAD-III.</Text>
+</GeneticsandInheritance>  
+
+
+
+  
+<Management>  
+<Title></Title>
+<Text>
+
+
+</Text>
+</Management>  
+
+
+
+<References>
+<ReferenceList>  
+<ReferenceListItem ID="1">  
+<Numbers>1.</Numbers>
+
+<Authors>Hugo, T.B., Heading, K.L. :</Authors>
+<Title>Leucocyte adhesion deficiency III in a mixed-breed dog.</Title>
+<Journal>Aust Vet J 92:299-
+302, 2014.</Journal>
+
+</ReferenceListItem>  
+
+
+<ReferenceListItem ID="2">  
+<Numbers>2.</Numbers>
+
+<Authors>Boudreaux, MK., Wardrop, KJ., Kiklevich, V., Felsburg, P., Snekvik, K. :</Authors>
+<Title>A mutation in the canine Kindlin-3
+gene associated with increased bleeding risk and susceptibility to infections.</Title>
+<Journal>Thromb
+Haemost 103:475-7, 2010.</Journal>
+
+</ReferenceListItem>  
+
+
+<ReferenceListItem ID="3">  
+<Numbers>3.</Numbers>
+
+<Authors>Marek Switonski.:</Authors>
+<Title>Impact of gene therapy for canine monogenic diseases on the progress of
+preclinical studies.</Title>
+<Journal>Journal of Applied Genetics 61:179–186, 2020.</Journal>
+
+</ReferenceListItem>  
+
+
+</ReferenceList>  
+
+
+</References>  
+  
+  </CarrierPageListItem>
+  
+  
+  
+  </CarrierPageList>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <TraitPageList>
+  
+  
+  <TraitPageListItem ID="1">
+  
+<TraitTitleImagePath>D:/AnimalReport/doghexagondrakgray.jpg</TraitTitleImagePath>
+<TraitCategory>Skin Trait</TraitCategory>
+<TraitName>Coat Color, Brown</TraitName>
+<TraitHighlightText>TRAIT</TraitHighlightText>
+
+<TraitSummary> 
+<Marker>AGSCTD002</Marker>
+<GeneName>Tyrosinase Related Protein 1</GeneName>
+<Gene>TYRP1</Gene>
+<Category>Skin Trait</Category>
+<ConditionName>Coat color, brown</ConditionName>
+<Inheritance>Autosomal
+Recessive</Inheritance>
+<ChromosomeNumber>CHR 11</ChromosomeNumber>
+<GenoType>
+<Reference>CCT</Reference>
+<VariantFound>--</VariantFound>
+</GenoType>
+<OMIANumber>001249
+</OMIANumber>
+
+
+
+</TraitSummary> 
+<TraitRedHighilghtedText>
+
+</TraitRedHighilghtedText>
+  
+<AboutCondition>  
+<Title>About the Trait</Title>
+<Text>Coat color, brown is an inherited trait influenced by the pigment eumelanin which causes the darkening of
+a dog’s coat color. This brown color coat is also referred to as liver, red or chocolate coat.</Text>
+</AboutCondition>
+
+
+<OnsetandPrognosis>  
+<Title></Title>
+<Text></Text>
+</OnsetandPrognosis>
+
+
+<Breeds>  
+<Title>Dog Breeds</Title>
+<Text>Brown color coat trait is reported in many breeds including Australian Shepherd, German Shepher,
+Leonberger, and Miniature American Shepherd</Text>
+</Breeds>  
+  
+  
+  
+  
+<GeneticsandInheritance>  
+<Title>Genetics and Inheritance</Title>
+<Text>The TYRP1 gene provides instructions for making enzyme called Tyrosinase-related protein. This enzyme is
+located in melanocytes, which are specialized cells that give pigmentation to the coat. A homozygous
+deletion CCT in TYRP1 gene results in an improper production of eumelanin leading to dilute brown coat
+color. It should be noted that dog’s coat color is a polygenic condition and pigment inheritance is complex
+and influenced by multiple genes.</Text>
+</GeneticsandInheritance>  
+
+
+
+  
+<Management>  
+<Title></Title>
+<Text>
+
+
+</Text>
+</Management>  
+
+
+
+<References>
+<ReferenceList>  
+<ReferenceListItem ID="1">  
+<Numbers>1.</Numbers>
+
+<Authors>Brancalion, L., Haase, B., Wade, C.M. : </Authors>
+<Title>Canine coat pigmentation genetics: a review.</Title>
+<Journal> Anim Genet :, 2021.</Journal>
+
+</ReferenceListItem>  
+
+
+<ReferenceListItem ID="2">  
+<Numbers>2.</Numbers>
+
+<Authors>Schmutz, S.M., Berryere, T.G., Goldfinch, A.D. </Authors>
+<Title>TYRP1 and MC1R genotypes and their effects on coat color
+in dogs </Title>
+<Journal>Mammalian Genome 13:380-387, 2002.</Journal>
+
+</ReferenceListItem>  
+
+
+</ReferenceList>  
+
+
+</References>  
+  
+  </TraitPageListItem>
+  
+  
+  
+  </TraitPageList>
+  
+	 
+	 
+       
+	 <MainReport>
+      <ConditionGroupListMain>
+        <CustomerNameinCG />
+        <CustomerReportDateinCG />
+        <CustomerbarCodeinCG />
+        <ConditionGroupSummaryMain ID="1">
+          <ConditionGroupBackgroundImageMain>D:/AnimalReport/nutrition_main-copy1.gif</ConditionGroupBackgroundImageMain>
+		  <ConditionGroupSummaryMainText>Metabolism is the process in which our body breaks down
+		  the food and uses the nutrient in the cells.Certain nutrient are extremely important for the body while others such as fat,when stored in excess,cause health problems.VieGenomics
+		  Nutrition and Well-being helps us in knowing which foos types can be used by the body ,likelihood for food cravings and the food that cannot be methabolized helping us in making healthier diet choices.</ConditionGroupSummaryMainText>
+		  <ConditionGroupSummarymainPageNumberImage>D:/AnimalReport/Mag1.jpg</ConditionGroupSummarymainPageNumberImage>
+          <ConditionGroupTitleMain>Nutrient Need</ConditionGroupTitleMain>
+          <ConditionListMain>
+            <ConditionMain ID="1">
+			<ConditionGroupTitleMain>Nutrition-Nutrient Need</ConditionGroupTitleMain>
+              <ConditionTitleMain>Vitamin A</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/vitaminA.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Vitamin A also known as Retinol is a fat soluble vitamin obtained from animal or plant sources. Human body cannot synthesize this vitamin. It is found in orange coloured fruits and vegetables, dark green leafy vegetables, organ meats, oily fish like Salmon, Tuna, Mackerel etc.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  Vitamin A is vital for growth and development, cell integrity, vision, immune function, bone remodelling, cholesterol reduction and in the process of reproduction. Deficiency of Vitamin A is known to be associated with dry and bumpy skin, dry eyes, night blindness, risk for age related macular degeneration, infertility, stunted growth in children and throat and chest infections, hair loss and susceptibility for infections. Beta-carotene found in fruits and vegetables is the precursor of vitamin A. It is converted into Vitamin A in the liver and in a healthy adult. The circulating levels of beta carotene are modulated by fruit intake, sex and gene variants. Higher levels of Beta Carotene could lead to secondary Vitamin A deficiency.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/vit-a.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\high_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>HIGH RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates that you may have higher circulating beta carotene with a likelihood of Vitamin A deficiency.</ResultInterpretationMain>
+                  <ConditionRecommendations>The role of supplements is yet to be established in raising Vitamin A and reducing beta carotene in blood. Healthy and balanced diet including orange coloured vegetables and fruits will help maintain optimal Vitamin A in blood and prevent Vitamin A deficiency.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain>ES98104 - GG</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="2">
+			<ConditionGroupTitleMain>Nutrition-Nutrient Need</ConditionGroupTitleMain>
+              <ConditionTitleMain>Vitamin B6</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/b6.jpg</ConditionIconMain>
+              <ConditionAboutMain1>Vitamin B6 also known as Pyridoxine is a water soluble vitamin obtained from animal or plant sources. Human body cannot synthesize this vitamin. It is found in cereals, beans, liver, meat, eggs, turkey, chickpeas, tuna, potatoes, sunflower seeds, lentils and bananas. Vital B6 is vital for protein, fat and carbohydrate metabolism and creation of red blood cells. It also prevents clogged arteries and minimizes heart disease risk </ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  Deficiency of Vitamin B6 can cause peripheral neuropathy, scaly patches, red skin and stubborn dandruff, glossitis – inflammation of tongue, cracking of the corners of the mouth, and in adults - depression, confusion, and seizures. Vitamin B6 deficiency can cause Atherosclerosis, Coronary Heart Disease and stroke. Underlying conditions like kidney disease, autoimmune disease, celiac disease, hyperthyroidism and certain medications can cause vitamin B6 deficiencies. Interplay of diet, genetics, and human health affect circulating levels of B vitamins in blood. People with certain genetic variation in folate pathway genes are likely to have low Vitamin B6 in their blood.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/vitamin-b6.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                   <ResultImageMain>D:\PG\inte_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>INTERMEDIATE RISK</ResultTitleMain>
+                  <ResultInterpretationMain>
+				  Your genotype indicates that you have no elevated likelihood of developing Vitamin B6 deficiency.
+                   </ResultInterpretationMain>
+                  <ConditionRecommendations>Healthy and balanced diet including whole grain cereals, egg, soya beans and meat will help in maintenance of optimal vitamin B6 levels in the body.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> ES98020 - TT</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="3">
+			<ConditionGroupTitleMain>Nutrition-Nutrient Need</ConditionGroupTitleMain>
+              <ConditionTitleMain>Vitamin B9</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/b9.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Vitamin B9 also known as Folic acid is a water soluble vitamin. Human body cannot synthesize this vitamin. It is naturally found in plant or animal sources such as cabbage, cauliflower, lettuce, lentils, spinach, sunflower seeds, legumes, asparagus, beetroot, egg yolk, milk, oranges etc. Vitamin B9 is essential for the embryonic development, formation of red and white blood cells, energy production and formation of DNA and RNA molecules.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  Adequate folic acid intake is extremely important during periods of rapid growth such as pregnancy, infancy, and adolescence. Deficiency of folic acid can result in anemia, open sores on the tongue and inside the mouth, changes in the color of the skin, hair, or fingernails. Drinking alcohol or medications like anticonvulsants are known to cause folic acid deficiency. Pregnant women with folate deficiency are at risk of having premature delivery, and children with neural tube defects, cleft lip and palate and autism spectrum disorders. People with some genetic variants are predisposed to have folic acid deficiency which could be a risk factor for a number of health conditions.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+			  <ConditionImageMain>D:/AnimalReport/cabbage1.jpg</ConditionImageMain>
+             <!--  <ConditionImageMain>D:/AnimalReport/cabbage.jpg</ConditionImageMain> -->
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>NORMAL RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates that you have no elevated likelihood of developing Vitamin B9 or Folate deficiency</ResultInterpretationMain>
+                  <ConditionRecommendations>Healthy and balanced diet including okra, turnip, spinach, and lentils will help in maintenance of optimal vitamin B9 levels in the body.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> ES98003-GG</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="4">
+			<ConditionGroupTitleMain>Nutrition-Nutrient Need</ConditionGroupTitleMain>
+              <ConditionTitleMain>Vitamin B12</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/vitaminb12.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Vitamin B12 also known as Cobalamin is a crucial water soluble vitamin. Human body cannot synthesize this vitamin, cannot be found in plant sources but is found naturally in animal products, such as fish, meat, eggs, dairy products, yeast extract and fortified breakfast cereals. Legumes, nuts and soy products also have vitamin B12. </ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  It is essential for nerve tissue health, brain function, formation of red blood cells, absorption of folic acid, synthesis of fatty acids and energy production. Deficiency of Vitamin B12 can result in damage to the nervous system and brain, megaloblastic anemia, fatigue, loss of appetite, weight loss, disturbed vision, numbness and tingling in the hands and feet, depression, dementia, lack of judgement and soreness of the mouth or tongue. Older adults, individuals with anemia, gastrointestinal disorders, pregnant and lactating women are at the risk of having deficiency of Vitamin B12.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/vitamin b12.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\low_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>LOW RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates that you may have elevated chance of developing Vitamin B12 deficiency</ResultInterpretationMain>
+                  <ConditionRecommendations>A minimum recommended daily allowance of 2.4mg/day is advised. Vegetarians and vegans can include cheese in their diet to meet the requirement. In case of diagnosed Vitamin B12, supplements should be taken based on your physician‘s recommendation.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> ES99022-GG</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="5">
+			<ConditionGroupTitleMain>Nutrition-Nutrient Need</ConditionGroupTitleMain>
+              <ConditionTitleMain>Vitamin C</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/vitamin-C.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Vitamin C also known as Ascorbic acid is a water soluble vitamin. Human body cannot synthesize or store this vitamin. It occurs naturally in citrus fruits like lemons and oranges, tomatoes, potatoes, broccoli, cauliflower, sprouts, red and green capsicum, guava, berries, kiwi etc.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  It is essential to form and maintain bone, skin and blood vessels, for growth and development, repair of body tissues, formation of collagen, absorption of iron and maintenance of a healthy heart, lowering of cholesterol level, reducing cataract risk, and immune system.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+			  Deficiency of Vitamin C causes fatigue, depression, gingivitis, petechiae, rash, internal bleeding, impaired wound healing and rarely Scurvy. Vitamin C is used most often for preventing and treating the common cold, infections and inflammation. It also reduces cancer risk. People who consume alcohol, smoke and are elderly are at the risk of having Vitamin C deficiency. Research has shown association of certain genetic variants with circulating levels of L-ascorbic acid independent of the dietary intake.
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/vit c.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>Normal Risk</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates that you have no elevated likelihood of developing Vitamin C deficiency</ResultInterpretationMain>
+                  <ConditionRecommendations>Healthy and balanced diet including citrus fruits will help in maintenance of optimal Vitamin C levels in the body.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> ES98722 - CC</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="6">
+			<ConditionGroupTitleMain>Nutrition-Nutrient Need</ConditionGroupTitleMain>
+              <ConditionTitleMain>Vitamin D</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/vit-D.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Vitamin D also known as ?Sun Shine Vitamin? is a fat soluble vitamin which is produced by human body in response to skin being exposed to sunlight. It is available in milk, fish, fish liver oil, egg yolks, strawberries, yeast, peanuts, beans, lentils etc. Vitamin D is essential for calcium absorption in the intestines, bone health, strength of teeth and muscle function. During the winter and rainty seasons, you need to get Vitamin D from your diet because the sun isn‘t strong enough for the body to make Vitamin D.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  Deficiency of vitamin D is known to cause Rickets in children and Osteomalacia in adults. Vitamin D deficiency is incredibly common and most people are unaware of it. Decreased level of vitamin D is associated with increased risk for cardiovascular diseases, cognitive impairment in older adults, and severe asthma in children. Several large observational studies have shown a link between a Vitamin D deficiency and respiratory tract infections like colds, bronchitis and pneumonia. Genetic variants on genes involved in cholesterol synthesis, hydroxylation, and vitamin D transport affect vitamin D status and may raise risk of vitamin D insufficiency.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/vitamin-D.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\high_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>High Risk</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates that you have slightly elevated chance of developing Vitamin D insufficiency</ResultInterpretationMain>
+                  <ConditionRecommendations>A daily exposure to sunshine for 10 mins in early hours is a great source of vitamin D. Other dietary sources include milk, fish and eggs. In case of diagnosed Vitamin D deficiency or elevated levels, physician consultation is advised.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> ES97820-GG, ES97962-GG</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+           
+          </ConditionListMain>
+        </ConditionGroupSummaryMain>
+		<ConditionGroupSummaryMain ID="2">
+          <ConditionGroupBackgroundImageMain>D:/AnimalReport/cardio.jpg</ConditionGroupBackgroundImageMain>
+		  <ConditionGroupSummaryMainText>Metabolism of lipids is an important factor while determining the health of your heart and bolld vessels.Excess lipids deposir in important
+		  organs of function can cause a wide range if diseases.Genes playing a role in lipid metabolism ,determine the levels of HIgh Density Lipoprotein
+		  (HDL),LOw Density Lipoprotein(LDL) and truglycerides in your blood, thereby detrmining risk for cardiovascular diseases.With the right diet,exercise,and lifestyle choices,risk for heart related aliments can be minimized.</ConditionGroupSummaryMainText>
+		  <ConditionGroupSummarymainPageNumberImage>D:/AnimalReport/Mag2.jpg</ConditionGroupSummarymainPageNumberImage>
+          <ConditionGroupTitleMain>Cardio Conditions</ConditionGroupTitleMain>
+          <ConditionListMain>
+            <ConditionMain ID="1">
+			<ConditionGroupTitleMain>Nutrition-Cardio Conditions</ConditionGroupTitleMain>
+              <ConditionTitleMain>Triglycerides</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/try.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Triglycerides are the most common type of fat (lipid) found in our body. Sources of fatty foods are butter, oils, cheese, red meat, baked food and ice cream. Our body converts extra calories, and extra alcohol into triglycerides and stores them in fat cells for future use. Excess triglycerides are stored along the arterial walls, which over a period of time can lead to hardening of the artery or arteriosclerosis. This, in turn, increases risk for stroke, heart attack and heart related ailments.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  High triglycerides can also be a sign of Type 2 diabetes or pre-diabetes, low levels of thyroid hormones (hypothyroidism) or rare genetic conditions and sometimes effect of certain medications that you may be taking. Excess drinking is one cause of high triglycerides. Avoiding sugar or refined carbohydrates, losing weight by regular exercise, limiting alcohol can help reduce your triglycerides. Genetic variations in certain genes are known to modulate the effect of fat intake on different health conditions.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/tryg.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                 <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>Result - NORMAL RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates that you have no elevated likelihood of developing Vitamin E deficiency</ResultInterpretationMain>
+                  <ConditionRecommendations>Healthy and balanced diet including nuts and vegetable oils will help in maintenance of optimal Vitamin E levels in the body.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain>ES98338 -AA </MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="2">
+			<ConditionGroupTitleMain>Nutrition-Cardio Conditions</ConditionGroupTitleMain>
+              <ConditionTitleMain>HDL Cholesterol</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/HDL.GIF</ConditionIconMain>
+              <ConditionAboutMain1>High Density Lipoprotein (HDL) is better known as ‗good cholesterol‘ because of its association with lower risk of heart disease. It picks up Low Density Lipoproteins from the blood stream and takes them back to the liver, to be broken down and then excreted from your body. Lower amounts of HDL increase the risk of heart diseases, whereas healthy levels of HDL have been associated with protective function against stroke and heart attacks.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  If your HDL levels are low, it is likely that LDL levels are high and your physician is likely to concentrate on reducing your LDL levels first than work on increasing HDL levels. It is still debated whether increasing HDL levels with medications confers the same protective function as higher HDL levels do naturally. Lifestyle changes such as moving more, quitting smoking or improving your diet that are known to increase HDL, have been shown to lower the risk of heart attack.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/hdlimage.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>Result - NORMAL RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates no elevated risk associated with HDL levels in your body</ResultInterpretationMain>
+                  <ConditionRecommendations>Healthy and balanced diet including exercise is recommended </ConditionRecommendations>
+                  <MarkersAndGenotypesMain> PRED113 - GG</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="3">
+			<ConditionGroupTitleMain>Nutrition-Cardio Conditions</ConditionGroupTitleMain>
+              <ConditionTitleMain>LDL Cholesterol</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/ldl.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Low Density Lipoprotein (LDL), often known as bad cholesterol, transports cholesterol particles throughout the body. Bad cholesterol is found in animal foods like meat, chicken and in diary products like cream, butter, milk and also from oils like coconut oil, palm oil, cocoa butter etc. LDL carries fats of low density which are also smaller in size. Due to their smaller size, LDL can also access smaller blood vessels. LDL builds upon the walls of arteries and the oxidation of LDL in these causes artery blockage. This increases the risk for heart attack, stroke and peripheral artery disease.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  Reducing alcohol consumption, smoking cessation, increasing physical activity and control on diet have been found to be extremely effective for controlling LDL. Genetic variants in certain genes population are are associated with dyslipedimia (abnormal levels of cholestrol and other lipids) and associated health conditions
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/beanswithseed.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>Result - INTERMEDIATE RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates no elevated risk associated with LDL or Bad cholesterol levels in your body</ResultInterpretationMain>
+                  <ConditionRecommendations>Having a healthy and balanced diet including physical exercise is recommended.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> PRED114 - GG, PRED115 - CC</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+          </ConditionListMain>
+        </ConditionGroupSummaryMain>
+        <ConditionGroupSummaryMain ID="3">
+          <ConditionGroupBackgroundImageMain>D:/AnimalReport/body_weight_main.jpg</ConditionGroupBackgroundImageMain>
+		  <ConditionGroupSummaryMainText>Obesity can increase a person's risk of diseases and health problems,including high blood pressure,diabetes and heart disease.Multiple studies in recent years have shown that obesity is complex medical problem 
+		  that involves genetic risk for higher body mass index and weight gain helps you understand your genetic makeup better.Preventive and informed health choices can be made to maintain optimal body mass index and weight and thereby
+		  reducing risk for heart and other conditions associated with obesity.
+		  </ConditionGroupSummaryMainText>
+		  <ConditionGroupSummarymainPageNumberImage>D:/AnimalReport/Mag3.jpg</ConditionGroupSummarymainPageNumberImage>
+          <ConditionGroupTitleMain>BODY WEIGHT</ConditionGroupTitleMain>
+          <ConditionListMain>
+            <ConditionMain ID="1">
+			<ConditionGroupTitleMain>Nutrition - Body Weight</ConditionGroupTitleMain>
+              <ConditionTitleMain>Body Mass Index</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/foots.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Body Mass Index (BMI) is a person‘s weight in kilograms divided by the square of height in meters. It is used for screening weight categories for diseases or health problems. By itself BMI is not a diagnostic tool to assess the overall health of an individual. Risks for individuals with high BMI are increased blood pressure, blood cholesterol and triglyceride levels and lowering of HDL (good) cholesterol levels, risk for diabetes. Low BMI indicates malnourishment, vitamin deficiency, anemia, risk for osteoporosis arising out of calcium or vitamin D deficiencies, decreased immune function and fertility issues. </ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  With a normal BMI, health advantages such as fewer joint and muscle pains, higher energy levels, better regulation of bodily fluids and blood pressure, reduction in burden on heart and circulatory system and relaxed sleep patterns are expected. Life style changes are advised in for high and low BMI individuals. Genetic variants in certain genes are known to modulate the effect of fat intake on BMI.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/bmi.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                 <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>INTERMEDIATE RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates no elevated risk associated with LDL or Bad cholesterol levels in your body</ResultInterpretationMain>
+                  <ConditionRecommendations>Having a healthy and balanced diet including physical exercise is recommended.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> PRED111 - AA, PRED202 - TT</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="2">
+			<ConditionGroupTitleMain>Nutrition - Body Weight</ConditionGroupTitleMain>
+              <ConditionTitleMain>Obesity</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/obesity.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Obesity is a complex health issue that is governed by genetics and behavior alike. There are multiple influences that lead to obesity such a dietary patterns, physical activity, use of certain medications etc. Obesity is diagnosed when an individual‘s BMI is above 30. As per recent estimates, more than 5% Indians are now obese and at risk for multiple diseases. Obesity is a serious health concern since it has now become one of the leading cause of death and reduces the overall quality of life. Being obese, increases your risk for many serious health issues that include, but are not limited to, High triglycerides and low high-density lipoprotein (HDL) cholesterol, Type 2 diabetes, high blood pressure, metabolic syndrome — a combination of high blood sugar, high blood pressure, high triglycerides and low HDL cholesterol, heart diseases, stroke, many types of cancers, breathing disorders, including sleep apnea, gallbladder disease, gynecological problems, such as infertility and irregular periods, erectile dysfunction and sexual health issues, non-alcoholic fatty liver disease, osteoarthritis etc.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  Knowing your risk for obesity helps you become proactive about your health. Genetic variants in certain genes are known to modulate the effect of fat intake on BMI.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/Obesity.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\normal_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>INTERMEDIATE RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates no elevated risk associated with LDL or Bad cholesterol levels in your body</ResultInterpretationMain>
+                  <ConditionRecommendations>Having a healthy and balanced diet including physical exercise is recommended.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> PRED407 - GG</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+            <ConditionMain ID="3">
+			<ConditionGroupTitleMain>Nutrition - Body Weight</ConditionGroupTitleMain>
+              <ConditionTitleMain>Carbohydrate And Weight Gain</ConditionTitleMain>
+              <ConditionIconMain>D:/AnimalReport/carbs.GIF</ConditionIconMain>
+              <ConditionAboutMain1>Carbohydrates are one of the most essential macronutrient in our diets, along with fat and proteins. However, carbohydrates also lead to weight gain. The two main forms of carbohydrates are sugars (such as fructose, glucose, and lactose) and starches (such as starchy vegetables, grains, rice, breads, and cereals). Food sources rich in carbohydrates are also rich in other nutrients such as vitamins, calcium, iron, starch and fibre are needed by the body. Long term starvation of the body of carbohydrates is likely to result in acute shortage of other vital nutrients in the body causing severe deficiencies.</ConditionAboutMain1>
+              <ConditionAboutMain2>
+			  In the case low glucose levels, the body can experience weakness, headaches, dizziness and irritability in the short term. So, a blanket ban on carbohydrate from your diet, is not only misaligned with your weight loss goals, but is also detrimental to your long term health prospects. Scientific research has found that certain individuals are more likely to gain weight when they consume carbohydrate in their diet. By knowing your genetic type, you can take informed decisions and balance your diet for health. Reasearch suggests significant gene-diet interaction and association between carbohydrate intake and wheight gain.
+              </ConditionAboutMain2>
+              <ConditionAboutMain3>
+              </ConditionAboutMain3>
+              <ConditionImageMain>D:/AnimalReport/carbspotatoes.jpg</ConditionImageMain>
+              <ConditionResultListMain>
+                <ConditionResultMain ID="1">
+                  <ResultImageMain>D:\PG\inte_risk_new1.GIF</ResultImageMain>
+                  <ResultTitleMain>NORMAL RISK</ResultTitleMain>
+                  <ResultInterpretationMain>Your genotype indicates no elevated risk associated with LDL or Bad cholesterol levels in your body</ResultInterpretationMain>
+                  <ConditionRecommendations>Having a healthy and balanced diet including physical exercise is recommended.</ConditionRecommendations>
+                  <MarkersAndGenotypesMain> PRED110 - GG, PRED422 - CC</MarkersAndGenotypesMain>
+                </ConditionResultMain>
+              </ConditionResultListMain>
+            </ConditionMain>
+          </ConditionListMain>
+        </ConditionGroupSummaryMain>
+        
+      </ConditionGroupListMain>
+    </MainReport>
+</DocumentElement>
