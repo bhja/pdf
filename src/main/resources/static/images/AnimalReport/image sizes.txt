@@ -1,0 +1,19 @@
+PAGE 2
+Logo - 2.36x2.65 (h x w)
+Image on right top - 5.63 x 9.48 
+
+PAGE 3
+Logo in header - 1.98 x 2.22 (h x w)
+Image at right top - 5.00 x 6.18
+All title dog images (red, blue, gray) - 1.83 x 1.58
+
+PAGE 5
+Image at right bottom - 9.03 x 9.15
+
+PAGE 7
+Image at right top - 2.62 x 5.74
+All small thumbnails - 3.43 x 2.43
+Full page image left bottom - 11.87 x 8.36
+
+PAGE 8
+Both images at bottom - 5.21 x 7.82

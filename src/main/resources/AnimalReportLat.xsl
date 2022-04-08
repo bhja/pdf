@@ -84,7 +84,7 @@
 					
 					<fo:table   width="8.27in" height="11.69in" >
 						<fo:table-column column-width="8.27in" />
-						<fo:table-body background-image="D:/AnimalReport/MainPage8.jpg"   background-repeat="no-repeat" background-position="center"  padding-left="0.0mm" >
+						<fo:table-body background-image="/AnimalReport/MainPage8.jpg"   background-repeat="no-repeat" background-position="center"  padding-left="0.0mm" >
 							
 							<fo:table-row>
 							<fo:table-cell padding-right="0.5in" padding-left="4.5in" padding-top="1.1in">
@@ -814,7 +814,7 @@
 			</fo:table-cell>
 					</fo:table-row>	
 					
-					<xsl:for-each select="TableOfContents">
+				<xsl:for-each select="TableOfContents">
 				<xsl:for-each select="TableOfContentsList">
 				<xsl:for-each select="TableOfContentsListItem" >
 					<fo:table-row >
