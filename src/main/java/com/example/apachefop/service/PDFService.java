@@ -60,6 +60,7 @@ public class PDFService {
             Driver driver = new Driver();
             ClassPathResource xslResource = new ClassPathResource(xslFile);
             driver.setRenderer(Driver.RENDER_PDF);
+            String out ;
             List<File> files = Files.list(Paths.get(inputPath))
                     .map(Path::toFile)
                     .filter(File::isFile)
@@ -68,15 +69,16 @@ public class PDFService {
             for(File file:files) {
                 XSLTInputHandler inputHandler = new XSLTInputHandler(file, xslResource.getFile());
                 XMLReader parser = inputHandler.getParser();
-
-                driver.setOutputStream(new FileOutputStream(outputPath +FilenameUtils.removeExtension(file.getName())+".pdf"));
+                out= outputPath +FilenameUtils.removeExtension(file.getName())+".pdf";
+                driver.setOutputStream(new FileOutputStream(out));
                 driver.render(parser, inputHandler.getInputSource());
+                log.info("Done processing the file {} . Out put is at {} " , file.getName(), out );
             }
         } catch (Exception ex) {
             ex.printStackTrace();
             throw new Exception("An Error occurred while generating PDF.");
         }finally {
-           log.info("Done processing the file .Out put is at ");
+            log.info("Finished processing all the files ");
         }
     }
 }

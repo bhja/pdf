@@ -63,9 +63,12 @@
 									   page-height="11.69in"
 									   background-color=""
 				>
-					<fo:region-body  font-family="sans-serif" font-weight="bold"   background-color=""/>
+					<fo:region-body  font-family="sans-serif" font-weight="bold"   />
+					<fo:region-before region-name="xsl-region-before" extent="2in" />
+					<fo:region-after extent="1cm" />
+				<!--	<fo:region-body  font-family="sans-serif" font-weight="bold"   background-color=""/>
 					<fo:region-before region-name="xsl-region-before" extent="2in"  background-color=""/>
-					<fo:region-after extent="1cm" background-color=""/>
+					<fo:region-after extent="1cm" background-color=""/>-->
 				</fo:simple-page-master>
 			</fo:layout-master-set>
 
@@ -797,7 +800,7 @@
 												</fo:table-cell>
 
 												<fo:table-cell>
-													<fo:block  color="#0070C0"   margin-left="2.5in" font-weight="bold"><fo:external-graphic  src="D:/AnimalReport/dogkid3.jpg"   ></fo:external-graphic>
+													<fo:block  color="#0070C0"   margin-left="2.5in" font-weight="bold"><fo:external-graphic  src="classpath:static/images/AnimalReport/dogkid3.jpg"   ></fo:external-graphic>
 													</fo:block>
 
 												</fo:table-cell>
@@ -1449,7 +1452,6 @@
 
 							<fo:table-row line-height="0.19in">
 								<fo:table-cell  number-columns-spanned="2" padding-left="0.3in" >
-
 									<fo:block><fo:external-graphic  src="D:/AnimalReport/dogkid2.JPG" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 							</fo:table-row>
@@ -1590,7 +1592,7 @@
 
 
 								<fo:table-cell padding-left="0.3in"  number-columns-spanned="2" font-family="Arial, Helvetica, sans-serif"  text-align="justify" line-height="0.225in" padding-top="0.2in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/dogkid33.jpg" content-width="2in" height="2in"></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/dogkid33.jpg" content-width="2in" height="2in"></fo:external-graphic></fo:block>
 
 								</fo:table-cell>
 
@@ -1683,21 +1685,21 @@
 
 							<fo:table-row line-height="0.2in">
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/pagesummarynew.JPG" ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/pagesummarynew.JPG" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/pagedetailedsummarynew.JPG" ></fo:external-graphic></fo:block>
-								</fo:table-cell>
-
-
-								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/pagetraitsnew.JPG" ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/pagedetailedsummarynew.JPG" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/pagedisordernew.JPG" ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/pagetraitsnew.JPG" ></fo:external-graphic></fo:block>
+								</fo:table-cell>
+
+
+								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/pagedisordernew.JPG" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 
@@ -1748,11 +1750,11 @@
 
 							<fo:table-row line-height="0.2in">
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/pagedisordernew.jpg" width="3.2in" height="3.2in" ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/pagedisordernew.jpg" width="3.2in" height="3.2in" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/disorderdetailspage.jpg" width="3.2in" height="3.2in"  ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/disorderdetailspage.jpg" width="3.2in" height="3.2in"  ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 
@@ -2001,11 +2003,11 @@
 
 							<fo:table-row line-height="0.2in">
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/ion5.JPG" ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/ion5.JPG" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 								<fo:table-cell  padding-top="0.2in" text-align="justify" padding-left="0.3in">
-									<fo:block><fo:external-graphic  src="D:/AnimalReport/chef.JPG" ></fo:external-graphic></fo:block>
+									<fo:block><fo:external-graphic  src="classpath:static/images/AnimalReport/chef.JPG" ></fo:external-graphic></fo:block>
 								</fo:table-cell>
 
 
